@@ -1,2 +1,2 @@
-# Software Technologies-Softuni
-3. Git and Github Lab exercise
+# Softuni.bg
+Git and Github Lab exercise
