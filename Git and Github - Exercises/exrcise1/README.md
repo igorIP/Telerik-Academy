@@ -1,1 +1,3 @@
 # Lab exercise
+Conflict resolved
+
